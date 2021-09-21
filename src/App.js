@@ -50,7 +50,6 @@ const App = ({
   );
   return (
     <div onClick={handleOnClick} id="app" className={theme}>
-      hellooooo
       <Router>
         <AddToHome />
         <ScrollIntoView>
